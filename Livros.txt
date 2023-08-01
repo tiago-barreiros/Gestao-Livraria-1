@@ -1,0 +1,70 @@
+1
+Real World Ocaml
+Portugues
+quim
+emanuel
+UBI
+2010
+Programacao
+19.889999
+100
+2
+Calculo 1
+Portugues
+Rosita
+Ana
+IST
+2018
+Matematica
+21.250000
+100
+3
+Calculo 2
+Portugues
+Maddie
+Rui
+UA
+2019
+Matematica
+22.100000
+97
+4
+Fisica Quantica
+Portugues
+Jose
+Maria
+UAlg
+2020
+Fisica
+15.990000
+100
+5
+Algoritmos e Estruturas de Dados
+Portugues
+Professor Barrico
+Professor Frutuoso
+UBI
+2021
+Programacao
+10.990000
+100
+6
+Programacao Funcional
+Portugues
+Professor Simao
+Professor Hugo
+UBI
+2020
+Programacao
+10.990000
+100
+929192
+kadjsd
+dkad
+adskdaa
+saldkas
+alkdsa
+12
+askajd
+12.000000
+12
